@@ -40,3 +40,10 @@ How to find color scope
 Contact me
 ------------------
 Please visit me if you have any question or suggestion at: http://weibo.com/seanliang
+
+
+My own settings
+------------------
+With default sublime 2 theme, the following colors are suggested: 
+  * source.python meta.function.inline.python meta.function.inline.parameters.python variable.parameter.function.python => orange
+  * source.c++ meta.function.c entity.name.function.c => light green
